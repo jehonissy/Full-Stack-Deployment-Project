@@ -1,16 +1,82 @@
-# React + Vite
+# Full-Stack Deployment Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Intern Details
 
-Currently, two official plugins are available:
+- **Intern ID:**THX-JUN0626-395
+- **Full Name:** Jehonisse
+- **No. of Weeks:** 4 weeks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Project Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ShopEase is a modern React-based E-Commerce Product Catalog that demonstrates modular architecture, client-side routing, responsive design, and deployment using Vercel.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Responsive React Application
+- Client-side Routing
+- Product Catalog
+- Search Products
+- Category Filter
+- Shopping Cart
+- Local Storage
+- Responsive UI
+- Live Deployment using Vercel
+
+---
+
+## Technologies Used
+
+- React
+- Vite
+- React Router DOM
+- CSS3
+- JavaScript
+- Vercel
+
+---
+
+## Folder Structure
+
+```
+src/
+ ├── assets/
+ ├── components/
+ ├── data/
+ ├── pages/
+ ├── App.jsx
+ ├── App.css
+ └── main.jsx
+```
+
+---
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## Build
+
+```bash
+npm run build
+```
+
+---
+
+## GitHub Repository
+
+https://github.com/jehonissy/Full-Stack-Deployment-Project
+
+---
+
+## Live Demo
+
+https://full-stack-deployment-project-71zc.vercel.app/
